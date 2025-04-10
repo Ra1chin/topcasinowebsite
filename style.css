@@ -49,6 +49,12 @@ body {
     transform: translateY(50px);
     transition: opacity 0.8s ease, transform 0.8s ease;
 }
+a {
+    color: #ff4d4d;
+}
+a:hover {
+    color: #8b0000;
+}
 
 .blog-post h2 {
     color: #ffcc00;
